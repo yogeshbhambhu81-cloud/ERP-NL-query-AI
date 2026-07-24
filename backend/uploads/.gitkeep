@@ -1,0 +1,3 @@
+# This file keeps the uploads directory in version control.
+# Uploaded CSV and image files are stored here temporarily before processing.
+# This directory is intentionally kept empty in git (actual uploads are gitignored).
