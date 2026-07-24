@@ -239,7 +239,7 @@ function Navbar({ onMobileMenuToggle }) {
                   </div>
                   <div>
                     <p className="account-name">Yogesh Bhambhu</p>
-                    <p className="account-email">sunny1524.be23@chitkarauniversity.edu.in</p>
+                    <p className="account-email">yogesh1602.be23@chitkarauniversity.edu.in</p>
                   </div>
                 </div>
                 <div className="account-divider" />
