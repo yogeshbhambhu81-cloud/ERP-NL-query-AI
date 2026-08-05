@@ -197,7 +197,7 @@ function Dashboard() {
             </div>
           </div>
 
-          {/* Supplier Performance */}
+          {/* Supplier performance */}
           <div className="wfx-card">
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '0.5rem' }}>
               <div>
